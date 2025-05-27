@@ -60,7 +60,7 @@ Installation
         
     Steps:
     Clone the repository:
-        git clone https://github.com/Ch-Lokesh-21/custom-event-calendar.git
+        git clone https://github.com/LohithMarneni/Custom-Event-Handler.git
         cd custom-event-calendar
 
         
