@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Custom-Event-Calender/static/css/main.79d10dd0.css",
-    "main.js": "/Custom-Event-Calender/static/js/main.cac46bb3.js",
-    "index.html": "/Custom-Event-Calender/index.html",
-    "main.79d10dd0.css.map": "/Custom-Event-Calender/static/css/main.79d10dd0.css.map",
-    "main.cac46bb3.js.map": "/Custom-Event-Calender/static/js/main.cac46bb3.js.map"
+    "main.css": "/Custom-Event-Handler/static/css/main.79d10dd0.css",
+    "main.js": "/Custom-Event-Handler/static/js/main.cac46bb3.js",
+    "index.html": "/Custom-Event-Handler/index.html",
+    "main.79d10dd0.css.map": "/Custom-Event-Handler/static/css/main.79d10dd0.css.map",
+    "main.cac46bb3.js.map": "/Custom-Event-Handler/static/js/main.cac46bb3.js.map"
   },
   "entrypoints": [
     "static/css/main.79d10dd0.css",
